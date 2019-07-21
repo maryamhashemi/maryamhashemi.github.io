@@ -146,7 +146,7 @@ timezone: Asia/Tehran # https://en.wikipedia.org/wiki/List_of_tz_database_time_z
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/maryam.hashenni/"
 
-Site Footer
+#Site Footer
 footer:
   links:
     - label: "Twitter"
