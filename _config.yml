@@ -108,13 +108,28 @@ analytics:
 author:
   name             : "Maryam Sadat"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Hi, Welcome to my site. I'm a bachelor student of Computer Sience at IUST."
+  location         : "Tehran"
+  email            : hashemi.maryam.sadat@gmail.com
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+@@ -221,7 +226,7 @@ sass:
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Tehran # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
+"
   location         : "Tehran"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: hashemi.maryam.sadat@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,12 +141,12 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/maryamhashemi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/maryam.hashenni/"
 
-# Site Footer
+Site Footer
 footer:
   links:
     - label: "Twitter"
@@ -142,16 +157,16 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: 
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      # url:"https://github.com/maryamhashemi"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url:"https://www.instagram.com/maryam.hashenni/"
 
 
 # Reading Files
