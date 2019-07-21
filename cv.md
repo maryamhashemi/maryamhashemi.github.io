@@ -8,13 +8,13 @@ modified: 7-21-2019
 comments: false
 ---
 
-# Education
+## Education
 
 * B.S. in Computer Engineering at IUST(GPA: 17.57/20.00 - 3.51/4.00  Via 137 passed credits   (Sep. 2015 - Present)
 
 * Pre-University and High School Diploma at Farzanegan High School- GPA: 19.56/20.00    (Sep. 2011 - June. 2015)
 
-# Selected Courses
+## Selected Courses
 * Logical circuits : 17.5/20.00
 * Algorithm design and analysis : 18.04/20.00
 * Formal languages and automata : 20.00/20.00
@@ -26,7 +26,7 @@ comments: false
 * Artificial intelligence : 16.75/20.00
 * DataBase : 18.5/20.00
 
-#Honors & Awards
+## Honors & Awards
 
 * Eligible for applying to continue my education in the Master's Program at the Department of Computer Science without taking the National Entrance Exam for Graduate Schools, as a reward of having high GPA
 
@@ -34,13 +34,13 @@ comments: false
 
 * Ranked 658th in the National Universities Entrance Exam, in math and physics among near 200,000 Participants
 
-#Experiences
+## Experiences
 * Accepted as Teaching Assistant in Data Structures course at Department of computer, IUST. (2018)
 
 * Accepted as Teaching Assistant in Algorithm design course at Department of computer, IUST. (2019)
  
 
-#Computer Skills
+## Computer Skills
 * C#
 * Java
 * Python
@@ -54,18 +54,18 @@ comments: false
 * Android Studio
 * Visual Studio
 
-#Language Skills
+## Language Skills
 * English
 * Persian
 
-#Interests
+## Interests
 * AI
 * Deep Learning
 * Machine Learning
 * Computer Vision
 * NLP
 
-#Reference
+## Reference
 Dr. Sualeh Eetemadi
 
 assistant professor at Computer Science Department,IUST
