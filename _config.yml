@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Maryam Sadat"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi, Welcome to my site. I'm a bachelor student of Computer Sience at IUST."
+  bio              : Hi, Welcome to my site. I'm a bachelor student of Computer Sience at IUST.
   location         : "Tehran"
   email            : hashemi.maryam.sadat@gmail.com
   links:
