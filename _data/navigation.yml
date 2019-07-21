@@ -12,3 +12,7 @@ main:
   #   url: /sitemap/
     - title: "CV"
       url: /cv/
+    - title: "project"
+      url: /project/
+    - title: "Contact"
+      url: /contact/
