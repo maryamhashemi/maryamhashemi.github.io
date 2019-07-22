@@ -29,6 +29,12 @@ As a project for Compiler course, we implement lexical analysis for Python code 
 ## Anagram
 A project for Natural Language Processing course. For more information, visit [this](https://github.com/maryamhashemi/anagram).
 
+## Bomberman
+As a Project for Advanced Programming course, we implement a Bomberman game which is able to play under network with two-player. For more information, visit [this](https://github.com/maryamhashemi/bomberman).
+
+## Basketball
+As a Project for Fundamentals of Computer Programming course, we implement a basketball game. For more information, visit [this](https://github.com/maryamhashemi/basketball-).
+
 
 
 
