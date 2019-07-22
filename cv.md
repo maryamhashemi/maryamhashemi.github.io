@@ -10,7 +10,7 @@ comments: false
 
 ## Education
 
-* B.S. in Computer Engineering at IUST(GPA: 17.57/20.00 - 3.51/4.00  Via 137 passed credits   (Sep. 2015 - Present)
+* B.S. in Computer science at IUST(GPA: 17.57/20.00 - 3.51/4.00  Via 137 passed credits   (Sep. 2015 - Present)
 
 * Pre-University and High School Diploma at Farzanegan High School- GPA: 19.56/20.00    (Sep. 2011 - June. 2015)
 
@@ -50,7 +50,7 @@ comments: false
 * Arduino
 * OpenCV
 * Verilog
-* modelsim
+* Modelsim
 * Android Studio
 * Visual Studio
 
