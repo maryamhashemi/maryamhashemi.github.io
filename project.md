@@ -7,7 +7,7 @@ tags: [project]
 modified: 7-21-2019
 comments: false
 ---
-## Transfer Transfer Learning
+## Transfer Learning
 Final Project of Machine Learning Course.
 For more information, visit [this](https://github.com/maryamhashemi/Transfer-Learning).
 
