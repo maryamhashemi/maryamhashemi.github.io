@@ -32,8 +32,9 @@ jobs:
           
     - name: Install dependencies
       run: |
-        gem install bundler --version '~> 2.5' # Specify a compatible version of Bundler
-        bundle config path vendor/bundle
+        gem update --system
+        gem install bundler
+        bundle update --bundler
         bundle install --jobs 4 --retry 3
         
     - name: Install Mermaid CLI (if needed)
