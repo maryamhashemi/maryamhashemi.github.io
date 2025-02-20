@@ -19,6 +19,3 @@ group :jekyll_plugins do
   gem 'htmlcompressor'
   gem 'htmlbeautifier'
 end
-
-# Fix uri gem conflict
-gem 'uri', '1.0.2'
