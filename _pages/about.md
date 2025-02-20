@@ -16,6 +16,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there!
 
-I'm a master's student in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/). My main research interest lies in `Visual Question Answering(VQA)` and `Vision-and-Language Model(VLM)` under the supervision of [Sauleh Eetemadi](http://www.sauleh.ir/).
+I’m currently a PhD student specializing in the `Synergy of Large Language Model (LLM) Reasoning and Reinforcement Learning (RL)` at [Iran University of Science and Technology](http://www.iust.ac.ir/). My research is supervised by [Dr. Sauleh Eetemadi](http://www.sauleh.ir/) and [Dr. Nasser Mozayeni](https://webpages.iust.ac.ir/mozayani/).
 
-Previously, I completed my bachelor's degree at [Iran University of Science and Technology](http://www.iust.ac.ir/) and succeeded in ranking at 5 top students in BSc.
+Previously, I completed my master’s degree in Artificial Intelligence at the same university, where my main research interest focused on `Visual Question Answering(VQA)` and `Vision-and-Language Model(VLM)`. During my undergraduate studies, I earned my bachelor's degree at Iran University of Science and Technology, ranking among the top five students in my program.
