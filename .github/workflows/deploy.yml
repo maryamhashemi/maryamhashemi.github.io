@@ -16,10 +16,12 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
+    
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.1.4'  # Update to latest 3.1.x version
+    
     - name: Enable bundler cache
       uses: actions/cache@v2
       with:
@@ -27,12 +29,16 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
+    
     - name: Install dependencies
       run: |
+        sudo apt-get update
+        sudo apt-get install -y imagemagick
         gem update --system
         gem install bundler
         bundle install --jobs 4 --retry 3
         npm install -g mermaid.cli
+    
     - name: Setup deploy options
       id: setup
       run: |
@@ -45,7 +51,8 @@ jobs:
           echo "::set-output name=SRC_BRANCH::${GITHUB_REF#refs/heads/}"
         fi
         echo "::set-output name=DEPLOY_BRANCH::gh-pages"
+    
     - name: Deploy website 
       run:  yes | bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
-                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
+                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
